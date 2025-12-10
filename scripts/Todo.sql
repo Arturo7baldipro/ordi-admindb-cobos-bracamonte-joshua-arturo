@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS sistema_musica_normalizado;
-USE sistema_musica_normalizado;
+CREATE DATABASE IF NOT EXISTS SoundStream;
+USE SoundStream;
 
 CREATE TABLE IF NOT EXISTS artistas (
   id INT AUTO_INCREMENT PRIMARY KEY,
